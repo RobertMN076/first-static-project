@@ -27,10 +27,15 @@ img{
 .bloco {
     display: flex;
     justify-content: center;
-    align-items: center;
     height: 100%;
     background-color: rgb(204, 205, 206);
     border-radius: 10px;
     flex-direction: column;
     gap: 10px;
+    margin-left: 400px;
+    margin-right: 800px;
+    padding-left: 100px;
+    padding-bottom: 10px;
 }
+
+
